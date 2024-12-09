@@ -1,6 +1,11 @@
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faPhone, faEnvelope} from '@fortawesome/free-solid-svg-icons';
 import {Link} from 'react-router-dom';
+import "../assets/css/bootstrap.css";
+import "../assets/css/responsive.css";
+import "../assets/css/style.css";
+
+
 
 const Header = () => {
     return (
