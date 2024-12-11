@@ -1,3 +1,4 @@
+import aboutImg from "../assets/images/about-img.jpg";
 
 const About = () => {
     return (
@@ -23,7 +24,7 @@ const About = () => {
                         </div>
                         <div className="col-lg-7 col-md-6">
                             <div className="img-box">
-                                <img src="../images/about-img.jpg" alt=""/>
+                                <img src={aboutImg} alt=""/>
                             </div>
                         </div>
                     </div>

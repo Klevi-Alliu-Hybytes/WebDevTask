@@ -1,6 +1,4 @@
-import "../assets/css/bootstrap.css";
-import "../assets/css/responsive.css";
-import "../assets/css/style.css";
+import sliderImg from "../assets/images/slider-img.png";
 
 const Slider = () => {
     return (
@@ -27,7 +25,7 @@ const Slider = () => {
                         </div>
                         <div className="col-md-6">
                             <div className="img-box">
-                                <img src="../images/slider-img.png" alt=""/>
+                                <img src={sliderImg} alt=""/>
                             </div>
                         </div>
                     </div>
