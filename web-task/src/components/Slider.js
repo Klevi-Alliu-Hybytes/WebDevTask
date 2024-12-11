@@ -20,14 +20,14 @@ const Slider = () => {
                                     adipisci. Quos molestiae saepe dicta nobis pariatur, tempora iusto, ad possimus
                                     soluta hic praesentium mollitia consequatur beatae, aspernatur culpa.
                                 </p>
-                                <a href="">
+                                <a href="#">
                                     Contact Us
                                 </a>
                             </div>
                         </div>
                         <div className="col-md-6">
                             <div className="img-box">
-                                <img src="images/slider-img.png" alt=""/>
+                                <img src="../images/slider-img.png" alt=""/>
                             </div>
                         </div>
                     </div>
