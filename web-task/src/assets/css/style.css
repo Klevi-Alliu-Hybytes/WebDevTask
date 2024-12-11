@@ -82,6 +82,11 @@ a:focus {
     background-color: #d1e3ff;
 }
 
+.header_section {
+    display: block !important;
+    visibility: visible !important;
+}
+
 .header_section .container-fluid {
     padding-right: 25px;
     padding-left: 25px;
