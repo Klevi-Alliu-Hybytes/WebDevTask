@@ -8,7 +8,8 @@ import ContactPage from "./pages/ContactPage";
 import "./assets/css/bootstrap.css";
 import "./assets/css/responsive.css";
 import "./assets/css/style.css";
-
+import "./assets/css/style.scss";
+import "./assets/css/style.css.map";
 
 function App() {
   return (
