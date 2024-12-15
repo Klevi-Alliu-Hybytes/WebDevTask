@@ -5,6 +5,7 @@ import Feature from "../components/Feature";
 import Service from "../components/Service";
 import Client from "../components/Client";
 import Contact from "../components/Contact";
+import Info from "../components/Info";
 const HomePage = () => {
     return (
         <>
@@ -15,6 +16,7 @@ const HomePage = () => {
         <Service />
         <Client />
         <Contact />
+        <Info />
         </>
     );
 };
