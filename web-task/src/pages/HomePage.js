@@ -4,6 +4,7 @@ import Professional from "../components/Professional";
 import Feature from "../components/Feature";
 import Service from "../components/Service";
 import Client from "../components/Client";
+import Contact from "../components/Contact";
 const HomePage = () => {
     return (
         <>
@@ -13,6 +14,7 @@ const HomePage = () => {
         <Professional />
         <Service />
         <Client />
+        <Contact />
         </>
     );
 };
