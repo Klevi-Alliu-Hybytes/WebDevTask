@@ -6,6 +6,8 @@ import Service from "../components/Service";
 import Client from "../components/Client";
 import Contact from "../components/Contact";
 import Info from "../components/Info";
+import Footer from "../components/Footer";
+
 const HomePage = () => {
     return (
         <>
@@ -17,6 +19,7 @@ const HomePage = () => {
         <Client />
         <Contact />
         <Info />
+        <Footer />
         </>
     );
 };
