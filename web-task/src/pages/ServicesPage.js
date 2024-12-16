@@ -2,10 +2,9 @@ import Info from "../components/Info";
 import Footer from "../components/Footer";
 import Service from "../components/Service";
 
-const AboutPage = () => {
+const ServicePage = () => {
     return (
         <>
-
             <Service />
             <Info />
             <Footer />
@@ -13,4 +12,4 @@ const AboutPage = () => {
     )
 }
 
-export default AboutPage;
+export default ServicePage;
